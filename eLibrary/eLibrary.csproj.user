@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="adminHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="borrowBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="donateBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editAdminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="openBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OvalPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Reset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="synopsisPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
